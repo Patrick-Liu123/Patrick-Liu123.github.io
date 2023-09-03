@@ -19,4 +19,6 @@ I am very fortunate to participate in the [AML Lab](https://aml-cityu.github.io/
 
 You can find my CV here: [Liu Jiawei's Curriculum Vitae](../assets/CV_Liu Jiawei.pdf). I am now looking for a Ph. D. position at 2024fall.
 
-If you want to have further communication, please feel free to contact me by email.
+If you want to have further communication, please feel free to contact me.
+
+Email: jiawliu7-c@my.cityu.edu.hk
