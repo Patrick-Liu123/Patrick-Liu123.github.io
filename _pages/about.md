@@ -15,7 +15,7 @@ I'm a postgraduate student from [School of Data Science](https://www.sdsc.cityu.
 
 My research interest includes machine learning, autoML, and optimization.
 
-I am very fortunate to participate in the [AML Lab](https://aml-cityu.github.io/) from School of Data Science, CityU of Hong Kong under the supervision of the [Prof. Zhao](https://zhaoxyai.github.io/)
+I am very fortunate to participate in the [AML Lab](https://aml-cityu.github.io/) from School of Data Science, CityU of Hong Kong under the supervision of the [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/)
 
 You can find my CV here: [Liu Jiawei's Curriculum Vitae](../assets/CV_Liu Jiawei.pdf). I am now looking for a Ph. D. position at 2024fall.
 
