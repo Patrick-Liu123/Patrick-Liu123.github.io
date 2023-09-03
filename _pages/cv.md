@@ -27,6 +27,7 @@ Work experience
   * City University of Hong Kong
   * Duties included: Dissertation conception and writing
   * Supervisor: Xiangyu Zhao
+
 Skills
 ======
 * Latex
