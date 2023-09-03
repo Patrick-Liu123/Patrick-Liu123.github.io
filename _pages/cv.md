@@ -25,7 +25,7 @@ Work experience
   
 * Fall 2023: Research Collaborator
   * City University of Hong Kong
-  * Duties included: Dissertation conception and writing
+  * Duties included: Dissertation writing
   * Supervisor: Xiangyu Zhao
 
 Skills
